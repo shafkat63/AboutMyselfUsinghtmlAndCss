@@ -1,0 +1,59 @@
+body {
+	background-color: #33475b;
+}
+div {
+	color: white;
+}
+h1 {
+	color: white;
+}
+
+h2 {
+	font-family: "Montserrat", sans-serif;
+	font-size: 2.5rem;
+	color: #66bfbf;
+}
+p {
+	color: white;
+}
+mark {
+	font-style: italic;
+}
+table,
+th,
+td {
+	border: 1px solid black;
+	margin-left:auto;
+	margin-right:auto
+}
+.myface {
+	width: 150px;
+	height: 150px;
+}
+.img-container {
+	text-align: center;
+}
+
+.paragraph {
+	text-align: justify;
+	text-align: center;
+}
+
+.Programing {
+	width: 150px;
+	height: 150px;
+}
+
+.bottom {
+	text-align: center;
+	background-color: #66bfbf;
+	padding: 50px 0 20px;
+}
+.table1 {
+	
+	background-color: rgb(91, 94, 166);
+}
+
+.btn {
+	color: antiquewhite;
+}
